@@ -1,0 +1,11 @@
+C:\Users\S533990\Documents\44663\C-.Net-project-1\bin\Debug\netcoreapp2.2\C-.Net-project-1.deps.json
+C:\Users\S533990\Documents\44663\C-.Net-project-1\bin\Debug\netcoreapp2.2\C-.Net-project-1.runtimeconfig.json
+C:\Users\S533990\Documents\44663\C-.Net-project-1\bin\Debug\netcoreapp2.2\C-.Net-project-1.runtimeconfig.dev.json
+C:\Users\S533990\Documents\44663\C-.Net-project-1\bin\Debug\netcoreapp2.2\C-.Net-project-1.dll
+C:\Users\S533990\Documents\44663\C-.Net-project-1\bin\Debug\netcoreapp2.2\C-.Net-project-1.pdb
+C:\Users\S533990\Documents\44663\C-.Net-project-1\obj\Debug\netcoreapp2.2\C-.Net-project-1.csprojAssemblyReference.cache
+C:\Users\S533990\Documents\44663\C-.Net-project-1\obj\Debug\netcoreapp2.2\C-.Net-project-1.csproj.CoreCompileInputs.cache
+C:\Users\S533990\Documents\44663\C-.Net-project-1\obj\Debug\netcoreapp2.2\C-.Net-project-1.AssemblyInfoInputs.cache
+C:\Users\S533990\Documents\44663\C-.Net-project-1\obj\Debug\netcoreapp2.2\C-.Net-project-1.AssemblyInfo.cs
+C:\Users\S533990\Documents\44663\C-.Net-project-1\obj\Debug\netcoreapp2.2\C-.Net-project-1.dll
+C:\Users\S533990\Documents\44663\C-.Net-project-1\obj\Debug\netcoreapp2.2\C-.Net-project-1.pdb
