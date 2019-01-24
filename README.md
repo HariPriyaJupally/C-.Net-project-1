@@ -1,5 +1,5 @@
 # C-.Net-project-1
-
+encoding: UTF-8
 <img src="https://github.com/HariPriyaJupally/C-.Net-project-1/blob/master/Screenshot%20(172).png">
 
 The application I created is about buying spectacles.
