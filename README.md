@@ -1,5 +1,7 @@
 # C-.Net-project-1
 
+<img src="https://github.com/HariPriyaJupally/C-.Net-project-1/blob/master/Screenshot%20(172).png">
+
 The application I created is about buying spectacles.
 First to enter the application enter any character or to quit the application enter ‘q’
 Then the applications asks you to enter the amount you have and gives you the types of frames you can buy with the amount
