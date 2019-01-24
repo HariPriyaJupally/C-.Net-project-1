@@ -100,8 +100,10 @@ namespace C_.Net_project_1
 
             void remainingAmount(decimal uCost)
             {
+                Console.WriteLine("----------------------------------------------------------");
                 Console.WriteLine($"Your name is {name}\n your eye sight is {eyeSight} \n The frame you ordered is {fname}");
                 Console.WriteLine($"The amount remaining in your pocket is {sum-uCost}");
+                Console.WriteLine("----------------------------------------------------------");
             }
             
             }  
