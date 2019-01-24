@@ -1,5 +1,7 @@
 # C-.Net-project-1
-encoding: UTF-8
+
+Application for Spectacles shopping
+
 <img src="https://github.com/HariPriyaJupally/C-.Net-project-1/blob/master/Screenshot%20(172).png">
 
 1.First to enter the application enter any character or to quit the application enter ‘q’.
