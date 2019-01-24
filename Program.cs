@@ -9,7 +9,7 @@ namespace C_.Net_project_1
             
             var i = 1;
             var eyeSight = 0.0;
-            var useApp = true;
+            bool useApp = true;
             var name = String.Empty;
             var unitCost = 0.0m;
             var fname = String.Empty;
